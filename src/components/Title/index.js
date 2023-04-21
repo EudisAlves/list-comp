@@ -3,6 +3,8 @@ import { View, Text } from "react-native";
 
 export default function Title() {
     return (
-        <View></View>
+        <View>
+            <Text></Text>
+        </View>
     )
 }
